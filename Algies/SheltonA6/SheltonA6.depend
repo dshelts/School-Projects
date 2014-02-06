@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1386279726 source:c:\users\drew\desktop\sheltona6\hash.cpp
+	"Hash.h"
+
+1386278945 c:\users\drew\desktop\sheltona6\hash.h
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<iomanip>
+	<fstream>
+
+1386691451 source:c:\users\drew\desktop\sheltona6\main.cpp
+	"Hash.h"
+

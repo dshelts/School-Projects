@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1384315252 source:c:\users\drew\desktop\sheltona4final\sheltona4.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<vector>
+

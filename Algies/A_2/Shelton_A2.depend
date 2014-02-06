@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1379992649 source:c:\users\drew\desktop\a_2\shelton_a2main.cpp
+	<iostream>
+	<string>
+	"Shelton_A2proxy.h"
+
+1379987251 c:\users\drew\desktop\a_2\shelton_a2proxy.h
+	<iostream>
+	<string>
+
+1379966084 source:c:\users\drew\desktop\a_2\shelton_a2class.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Shelton_A2proxy.h"
+

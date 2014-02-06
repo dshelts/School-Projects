@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1381462164 source:c:\users\drew\desktop\shelton_a3\main.cpp
+	"SheltonA3.h"
+
+1381451071 c:\users\drew\desktop\shelton_a3\sheltona3.h
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<algorithm>
+	<cmath>
+	<time.h>
+	<limits.h>
+	<iomanip>
+
+1381461945 source:c:\users\drew\desktop\shelton_a3\sheltona3.cpp
+	"SheltonA3.h"
+
